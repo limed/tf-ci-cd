@@ -1,0 +1,5 @@
+aws_region    = "us-west-2"
+instance_name = "<What you want to name your pipeline and build>"
+github_token  = "<Your oauth token>"
+github_repo   = "<Github repo you want built>"
+github_user   = "<Your github user>"
