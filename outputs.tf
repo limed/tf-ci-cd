@@ -1,5 +1,5 @@
 output codebuild_role_id {
-  value = "${aws_iam_role.codepipeline_role.id}"
+  value = "${aws_iam_role.codebuild_role.id}"
 }
 
 output codepipeline_role_id {
